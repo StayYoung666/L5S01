@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../L5"
+		},
+		{
+			"path": "../../../L5Homework"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "L5"
+	}
+}
